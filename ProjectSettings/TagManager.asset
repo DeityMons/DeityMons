@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Game Object
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - SolidObejcts
+  - Longgrass
+  - Interactable
+  - Player
+  - FovLayer
+  - Portal
+  - trigger
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 1358766263
+    locked: 0
+  - name: BeforeSolid
+    uniqueID: 781671697
+    locked: 0
+  - name: SolidGround
+    uniqueID: 379643687
+    locked: 0
+  - name: AfterSolid
+    uniqueID: 112522605
+    locked: 0
+  - name: Player
+    uniqueID: 1460734119
+    locked: 0
+  - name: FrontGround
+    uniqueID: 2741612453
+    locked: 0
+  - name: Interactable
+    uniqueID: 1180894341
+    locked: 0
+  - name: Battle
+    uniqueID: 1891557333
+    locked: 0

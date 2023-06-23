@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac59c5a38b26148f4964138b2d965905, type: 3}
+  m_Name: Cure-All tonic
+  m_EditorClassIdentifier: 
+  name: Cure-All tonic
+  description: "Developed by DeityMon Union, it is a legendary potion renowned for
+    its extraordinary healing properties. It banishes all types of special conditions,
+    rejuvenates the Pok\xE9mon's health, and bolsters its overall resilience, making
+    it an invaluable asset in battles."
+  icon: {fileID: -1519367027, guid: ff64569e62c3a4281b1ac7307725f467, type: 3}
+  hpAmount: 0
+  restoreMaxHP: 0
+  ppAmount: 0
+  restoreMaxPP: 0
+  Status: 
+  recoverAllStatus: 1
+  revive: 0
+  maxRevive: 0

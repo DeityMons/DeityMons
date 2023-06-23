@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 58446001fa24d46869bceeb4f2de1bba, type: 3}
+  m_Name: LightGod
+  m_EditorClassIdentifier: 
+  name: 
+  description: 
+  frontSprite: {fileID: 21300000, guid: 88ae364dd42584aa09d9deb4b800792f, type: 3}
+  backSprite: {fileID: 21300000, guid: 6ab2891846d55400eb1d4b051bfe6542, type: 3}
+  Icon: {fileID: 21300000, guid: 1565edfd1b74a4be6955f25d06e8dd1c, type: 3}
+  type1: 0
+  type2: 0
+  Rarity: 0
+  Maxhp: 0
+  NormalATK: 0
+  SpecialATK: 0
+  NormalDefense: 0
+  SpecialDefense: 0
+  speed: 0
+  critRate: 0
+  expYield: 0
+  growthRate: 0
+  catchRate: 255
+  ability: 0
+  learnableMoves: []
+  learnableByItems: []

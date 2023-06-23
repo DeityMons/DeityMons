@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 58446001fa24d46869bceeb4f2de1bba, type: 3}
+  m_Name: No.003
+  m_EditorClassIdentifier: 
+  name: Fighter Ball
+  description: 
+  frontSprite: {fileID: 21300000, guid: 009ec9e24cbf54541871b5b8c16b16ab, type: 3}
+  backSprite: {fileID: 21300000, guid: 4d0d785e3d1f04708a689f2fca94cf9a, type: 3}
+  type1: 1
+  type2: 2
+  Maxhp: 77
+  NormalATK: 89
+  SpecialATK: 45
+  NormalDefense: 78
+  SpecialDefense: 43
+  speed: 100
+  critRate: 30
+  expYield: 62
+  growthRate: 0
+  catchRate: 255
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: 7029351c17ee14bca8ae81beafbd1785, type: 2}
+    level: 0
+  - moveBase: {fileID: 11400000, guid: 2e77af21f5e0d40b08c8d0f2a5fa510a, type: 2}
+    level: 17
+  - moveBase: {fileID: 11400000, guid: e11ca8cb0eb104ce5b5a4739677dcfeb, type: 2}
+    level: 20
+  - moveBase: {fileID: 11400000, guid: 3fd65cc0568824af7901c532ff514bb2, type: 2}
+    level: 23
+  - moveBase: {fileID: 11400000, guid: 1578e6298006442fca1e1d992a74bcc0, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 0d5b4afe14f294d77b930117d9741419, type: 2}
+    level: 3
+  - moveBase: {fileID: 11400000, guid: 18c87ae8c3ec74b06adc9b27aa789ca7, type: 2}
+    level: 7
+  - moveBase: {fileID: 11400000, guid: 5ab6a2ed88df2444c9511d5aae5a9b3f, type: 2}
+    level: 13

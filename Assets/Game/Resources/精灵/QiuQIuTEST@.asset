@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 58446001fa24d46869bceeb4f2de1bba, type: 3}
+  m_Name: QiuQIuTEST@
+  m_EditorClassIdentifier: 
+  name: EnemyQiuQIu
+  description: 
+  frontSprite: {fileID: 21300000, guid: 94648f52cb5914d609ac5922c8f91317, type: 3}
+  backSprite: {fileID: 21300000, guid: a19f1793e95b14182acc71ff60448c40, type: 3}
+  Icon: {fileID: 21300000, guid: b11c4d14a786b499480ce1ceba80f3e3, type: 3}
+  type1: 1
+  type2: 0
+  Maxhp: 100
+  NormalATK: 100
+  SpecialATK: 100
+  NormalDefense: 100
+  SpecialDefense: 100
+  speed: 100
+  critRate: 100
+  expYield: 100
+  growthRate: 0
+  catchRate: 255
+  ability: 0
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: 5f2f8f303e95f4a8bb3654e763f65513, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 12239db852d4c41efb48d9732e3eac2b, type: 2}
+    level: 4
+  - moveBase: {fileID: 11400000, guid: c822852cc71d74fc79279e8563abddf8, type: 2}
+    level: 2
+  - moveBase: {fileID: 11400000, guid: ad4601042d6934a71987623bdd0c225f, type: 2}
+    level: 3
+  - moveBase: {fileID: 11400000, guid: 10c37acd294d849aa94fee067344f0b1, type: 2}
+    level: 4
+  learnableByItems: []
